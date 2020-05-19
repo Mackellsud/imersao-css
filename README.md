@@ -1,2 +1,2 @@
 # imersao-css
- Imersão CSS - Conhecendo um pouco mais sobre CSS
+ Imersão CSS - Aprenderemos conceitos de CSS e como podemos aplica-los em nossos sites.
